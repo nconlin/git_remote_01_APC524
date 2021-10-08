@@ -1,2 +1,4 @@
 line 1 in B
 line 2 in B
+another line 
+a line on new branch
