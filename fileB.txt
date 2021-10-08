@@ -1,2 +1,3 @@
 line 1 in B
 line 2 in B
+line 4 in B
